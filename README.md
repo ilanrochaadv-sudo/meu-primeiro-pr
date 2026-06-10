@@ -18,6 +18,6 @@ O honorário mínimo é de **10%** sobre o valor da causa, conforme o Código de
 python calcular.py
 ```
 
-## Contribução
+## Contribuição
 
 Pull requests são bem-vindos. Abra uma issue antes de propor grandes mudanças.
